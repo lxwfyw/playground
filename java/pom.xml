@@ -10,7 +10,7 @@
   <name>java</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>core-java</module>
+    <module>java-lib</module>
   </modules>
 
   <properties>
