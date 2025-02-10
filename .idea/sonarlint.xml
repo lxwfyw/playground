@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="java-parent" value="java" />
+        <entry key="playground_r2" value="playground_r1" />
+      </map>
+    </option>
+  </component>
+</project>
